@@ -5,7 +5,6 @@
 00093_aakii_in-plain-sight_FemaleCitation_CGL_2.wav	aakii
 00094_aakiiwilaxpaakbaaiilapxisaahkuua_Secretary-of-the-Interior_FemaleCitation_CGL_3.wav	aakiiwilaxpaakbaaiilapxisaahkuua
 00106_aakkapee-_to-freeze-frozen_FemaleCitation_CGL_1.wav	aakkapee
-00111_bileewilaakaan-dusaatuua_very-hot-outside-litso-ho_FemaleCitation_CGL_1.wav	bileewilaakaan dusaatuua
 00135_aalashkukaashe_very-late_FemaleCitation_CGL_2.wav	aalashkukaashe
 00191_aapchiaxxo-_sprinkle-pour-over_FemaleCitation_CGL_2.wav	aapchiaxxo
 00197_aapchileexee-_have-a-scratchy-throat-ha_FemaleCitation_CGL_2.wav	aapchileexee
@@ -24,14 +23,12 @@
 00578_akiinnaaxuche-_vampire_FemaleCitation_CGL_2.wav	akiinnaaxuche
 01243_b_iiwaalaashchia_molar_CGL-3.wav	iiwaalaashchia
 01265_anniilaache_on-the-contrary_FemaleCitation_CGL_2.wav	anniilaache
-01294_axuashipite_black-skin-from-liver-disease-or-malaria -2.wav	axuashipite
+01294_axuashipite_black-skin-from-liver-disease-or-malaria-2.wav	axuashipite
 01298_axuaxaaxe_rough-skin_CGL-2.wav	axuaxaaxe
 01304_b_aluuxaxpik_blistered_CGL.wav	aluuxaxpik
-01373_b_aashuua-ishileeta_skull_CGL.wav	aashuua ishileeta
 01387_b_daaselaxachia_heart-beat-movement_CGL.wav	daaselaxachia
 01388_b_daaselaxchiapuuchi_rapid-heart-beat_CGL.wav	daaselaxchiapuuchi
 01389_b_daasepapoochee_heart-beat-thumping_CGL.wav	daasepapoochee
-01390_b_daaselaxachia-eehate_irregular-different-heart-beat_CGL.wav	daaselaxachia eehate
 01396_b_daasaawuua_inside-of-heart_CGL.wav	daasaawuua
 01399_b_iiaxaalasatche_the-thick-part-of-stomach-lining_CGL.wav	iiaxaalasatche
 01407_aashkiishe_scrotum_CGL-2.wav	aashkiishe
