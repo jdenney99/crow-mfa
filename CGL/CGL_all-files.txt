@@ -436,7 +436,7 @@
 01686-1_b_iiwaaiikukko_hearing-aid_CGL|iiwaaiikukko
 01689_b_baaiikuukuhsak_doesnt-listen_CGL|baaiikuukuhsak
 01694_b_iikuukuwiak_wants-to-hear_CGL|iikuukuwiak
-01696_b_ikuukussaa--k_didnt-listen_CGL|ikuukussaa k
+01696_b_ikuukussaa--k_didnt-listen_CGL|ikuukussaak
 01697_b_akuuxe-baailutchiikik_got-an-earful_CGL|akuuxe baailutchiikik
 01698_b_ahkuuxbatchiia_listening-diligently_CGL|ahkuuxbatchiia
 01700_b_akbaaiikuukko_listener_CGL|akbaaiikuukko
@@ -554,8 +554,8 @@
 01897_s_b_ilitbishimma_will-have-a-smell_CGL|ilitbishimma
 01898_b_ilitdeetimma_will-not-have-a-smell_CGL|ilitdeetimma
 01898_s_b_ilitdeetimma_will-not-have-a-smell_CGL|ilitdeetimma
-01899_b_ilitcheala-achichia-k_smell-is-spreading_CGL|ilitcheala achichia k
-01899_s_b_ilitcheala-achichia-k_smell-is-spreading_CGL|ilitcheala achichia k
+01899_b_ilitcheala-achichia-k_smell-is-spreading_CGL|ilitcheala achichiak
+01899_s_b_ilitcheala-achichia-k_smell-is-spreading_CGL|ilitcheala achichiak
 01901_b_apeeluchkape_pinch-nose_CGL|apeeluchkape
 01901_s_b_apeeluchkape_pinch-nose_CGL|apeeluchkape
 01902_b_uuwuuakoo-ii-iliahe_breathe-through-mouth_CGL|uuwuuakoo ii iliahe
@@ -2055,9 +2055,9 @@
 10982_alaxxichihkuua_to-cause-someone-to-stop-_FemaleStem_CGL_1610647997743|alaxxichihkuua
 11012_alaxxixxite_to-have-many-rapid-stops_FemaleCitation_CGL_1610648855194|alaxxixxite
 11012_alaxxixxite_to-have-many-rapid-stops_FemaleStem_CGL_1610648829946|alaxxixxite
-11230_batcheeshbatshuo--k_-cruel-to-each-other_FemaleCitation_CGL_2|batcheeshbatshuo k
-11230_batcheeshbatshuo--k_-cruel-to-each-other_FemaleStem_CGL_1|batcheeshbatshuo k
-11230_batsheewatshuo--k_vengence-vendetta_FemaleCitation_CGL_1|batsheewatshuo k
+11230_batcheeshbatshuo--k_-cruel-to-each-other_FemaleCitation_CGL_2|batcheeshbatshuok
+11230_batcheeshbatshuo--k_-cruel-to-each-other_FemaleStem_CGL_1|batcheeshbatshuok
+11230_batsheewatshuo--k_vengence-vendetta_FemaleCitation_CGL_1|batsheewatshuok
 11724_xaapxappe_flat-and-thin-describing-_FemaleCitation_CGL_1|xaapxappe
 11724_xaapxappe_flat-and-thin-describing-_FemaleStem_CGL_1|xaapxappe
 12101_xaxaache_roughen-scrape-scratch_FemaleCitation_CGL_1|xaxaache
