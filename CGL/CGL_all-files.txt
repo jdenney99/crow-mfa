@@ -527,10 +527,10 @@
 01882_s_b_isaahkalitdiik_smells-like-old-man_CGL|isaahkalitdiik
 01883_b_taalaalitdik_smells-like-gas_CGL|taalaalitdik
 01883_s_b_taalaalitdik_smells-like-gas_CGL|taalaalitdik
-01884_b_baa-lakkapelitdik_smells-like-smudge_CGL|baa lakkapelitdik
-01884_s_b_baa-lakkapelitdik_smells-like-smudge_CGL|baa lakkapelitdik
-01886_b_baa-alaxxualitdik_smells-like-fried-food-smoke_CGL|baa alaxxualitdik
-01886_s_b_baa-alaxxualitdik_smells-like-fried-food-smoke_CGL|baa alaxxualitdik
+01884_b_baa-lakkapelitdik_smells-like-smudge_CGL|baalakkapelitdik
+01884_s_b_baa-lakkapelitdik_smells-like-smudge_CGL|baalakkapelitdik
+01886_b_baa-alaxxualitdik_smells-like-fried-food-smoke_CGL|baaalaxxualitdik
+01886_s_b_baa-alaxxualitdik_smells-like-fried-food-smoke_CGL|baaalaxxualitdik
 01888_b_oopditik_smells-like-cigarettes_CGL|oopditik
 01888_s_b_oopditik_smells-like-cigarettes_CGL|oopditik
 01889_b_ooppualitdik_smells-like-rotten-cigarettes_CGL|ooppualitdik
@@ -920,9 +920,9 @@
 02407_b_aalakhaaisshe_sling_CGL|aalakhaaisshe
 02408_b_uuwate-iichikaatuua_staple_CGL|uuwate iichikaatuua
 02410_b_axus-biio_performing-an-operation|axus biio
-02412_b_ii-waa-awaxuua_scalpel|ii waa awaxuua
+02412_b_ii-waa-awaxuua_scalpel|iiwaaawaxuua
 02413_b_iiwaaihawihkuua_anesthesia_CGL|iiwaaihawihkuua
-02414_b_axua-waalaatuua_diagnosis_CGL|axua waalaatuua
+02414_b_axua-waalaatuua_diagnosis_CGL|axuawaalaatuua
 02417_b_iiishtataachissuua_a-cure_CGL|iiishtataachissuua
 02418_b_iikuxsuua_cure-antidote_CGL|iikuxsuua
 02420_b_axua-awuua-iichichikuua_cat-scan_CGL|axua awuua iichichikuua
